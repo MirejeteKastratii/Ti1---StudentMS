@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fb8622d1-088f-4153-befd-f6ecf9636f8c": {
+      "ProjectGuid": "fb8622d1-088f-4153-befd-f6ecf9636f8c",
+      "DisplayName": "StudentManagement",
+      "ColorIndex": 0
+    },
+    "ab6cc3c9-1dd3-4a48-8863-fd733299c539": {
+      "ProjectGuid": "ab6cc3c9-1dd3-4a48-8863-fd733299c539",
+      "DisplayName": "StudentMS_BLL",
+      "ColorIndex": 1
+    },
+    "000767ce-ee53-45fc-9dec-b23abf77422e": {
+      "ProjectGuid": "000767ce-ee53-45fc-9dec-b23abf77422e",
+      "DisplayName": "StudentMS_DAL",
+      "ColorIndex": 2
+    },
+    "fddfe854-406c-4382-885d-d1f76aae6ed4": {
+      "ProjectGuid": "fddfe854-406c-4382-885d-d1f76aae6ed4",
+      "DisplayName": "StudentMS_BO",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

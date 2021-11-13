@@ -19,3 +19,11 @@ C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\Stud
 C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_BO\obj\Debug\StudentMS_BO.csproj.CoreCompileInputs.cache
 C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_BO\obj\Debug\StudentMS_BO.exe
 C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_BO\obj\Debug\StudentMS_BO.pdb
+C:\Users\Admin\OneDrive\Desktop\TI1\Ti1---StudentMS\StudentMS_BO\bin\Debug\StudentMS_BO.exe.config
+C:\Users\Admin\OneDrive\Desktop\TI1\Ti1---StudentMS\StudentMS_BO\bin\Debug\StudentMS_BO.exe
+C:\Users\Admin\OneDrive\Desktop\TI1\Ti1---StudentMS\StudentMS_BO\bin\Debug\StudentMS_BO.pdb
+C:\Users\Admin\OneDrive\Desktop\TI1\Ti1---StudentMS\StudentMS_BO\obj\Debug\StudentMS_BO.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\TI1\Ti1---StudentMS\StudentMS_BO\obj\Debug\StudentMS_BO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Desktop\TI1\Ti1---StudentMS\StudentMS_BO\obj\Debug\StudentMS_BO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\TI1\Ti1---StudentMS\StudentMS_BO\obj\Debug\StudentMS_BO.exe
+C:\Users\Admin\OneDrive\Desktop\TI1\Ti1---StudentMS\StudentMS_BO\obj\Debug\StudentMS_BO.pdb

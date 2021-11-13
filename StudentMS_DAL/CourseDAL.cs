@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using StudentMS_BO;
 using System.Data.SqlClient;
 using StudentMS_BO;
+using System.Data;
+
 namespace StudentMS_DAL
 {
   public  class CourseDAL
@@ -34,6 +36,17 @@ namespace StudentMS_DAL
                 return false;
             }
         }
+        public DataTable Get_AllCourses()
+        {
+            using(SqlConnection conn = new SqlConnection(DatabaseConnection.connString))
+            {
+                conn.Open();
+                DatabaseConnection.da = new SqlDataAdapter("usp_GetAllCourses", DatabaseConnection.conn);
+                DataTable dt = new DataTable();
+                DatabaseConnection.da.Fill(dt);
 
+                return dt;
+            }
+        }
     }
 }

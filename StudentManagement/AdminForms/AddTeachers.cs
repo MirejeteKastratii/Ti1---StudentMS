@@ -42,7 +42,7 @@ namespace StudentManagement.AdminForms
 
         private void btnSaveTch_Click(object sender, EventArgs e)
         {
-            TeacherBO tchBO = new TeacherBO(txtEmri.Text, txtMbiemri.Text, txtEmail.Text, txtNrTel.Text,txtOrePune.Text );
+            TeacherBO tchBO = new TeacherBO(txtEmri.Text, txtMbiemri.Text, txtEmail.Text, txtNrTel.Text,txtOrePune.Text);
         }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,6 +15,11 @@ namespace StudentMS_BLL
         public bool CreateCourse(CourseBO course)
         {
             return cDAL.InsertCourses(course);
+        }
+
+        public DataTable ShowAllCourses()
+        {
+            return cDAL.Get_AllCourses();
         }
     }
 }

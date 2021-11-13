@@ -10,7 +10,8 @@ namespace StudentMS_DAL
 {
    public class DatabaseConnection
     {
-        public static string connString = ConfigurationManager.ConnectionStrings["connStringMirejete"].ConnectionString.ToString();
+        //public static string connString = ConfigurationManager.ConnectionStrings["connStringMirejete"].ConnectionString.ToString();
+        public static string connString = ConfigurationManager.ConnectionStrings["connStringFlorentine"].ConnectionString.ToString();
         public static SqlConnection conn;
         public static SqlCommand cmd;
         public static SqlDataAdapter da;
